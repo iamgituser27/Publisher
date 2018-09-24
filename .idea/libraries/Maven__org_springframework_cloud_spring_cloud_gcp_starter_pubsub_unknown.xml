@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.cloud:spring-cloud-gcp-starter-pubsub:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/repository/org/springframework/cloud/spring-cloud-gcp-starter-pubsub/unknown/spring-cloud-gcp-starter-pubsub-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/repository/org/springframework/cloud/spring-cloud-gcp-starter-pubsub/unknown/spring-cloud-gcp-starter-pubsub-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/repository/org/springframework/cloud/spring-cloud-gcp-starter-pubsub/unknown/spring-cloud-gcp-starter-pubsub-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
